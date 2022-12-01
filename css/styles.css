@@ -2,7 +2,7 @@
     border: 1px solid black;
     float: left;
     font-size: 1rem;
-    padding: 2%;
+    padding: 0% 2% 2%;
     width: 21%;
     box-sizing: border-box;
     margin: 40px 1% 0;
@@ -35,7 +35,7 @@
     
 }
 .bio-box img {
-    width: 175px;
+    width: 170px;
     
 }
 .bio-box h3 {
